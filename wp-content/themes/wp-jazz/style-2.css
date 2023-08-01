@@ -1,0 +1,75 @@
+/* -- This is the place to add your own style modifications without touching the original styles -- */
+
+body {}
+
+/* ---- If you want to change the left sidebar widget colors, delete this line and change the colors below
+
+#sidebarleft li {
+	border-color:#ddd;
+	background:#eee;
+	}
+
+#sidebarleft li li, #sidebarleft .textwidget, #sidebarleft li .widgettitle, #sidebarleft li#tag-cloud ul.wp-tag-cloud {
+	border-top:1px solid #fff;
+	border-bottom:1px solid #ddd;
+	}
+
+#sidebarleft li .widgettitle {
+	background: #e5e5e5;
+	}
+
+You'll also need to delete this line after you change the colors above ---- */
+
+/* ---- If you want to change the right sidebar (top) widget colors, delete this line and change the colors below
+
+#sidebar li {
+	border-color:#ddd;
+	background:#eee;
+	}
+
+#sidebar li li, #sidebar .textwidget, #sidebar li .widgettitle, #sidebar li#tag-cloud ul.wp-tag-cloud {
+	border-top:1px solid #fff;
+	border-bottom:1px solid #ddd;
+	}
+
+#sidebar li .widgettitle {
+	background: #e5e5e5;
+	}
+
+You'll also need to delete this line after you change the colors above ---- */
+
+/* ---- If you want to change the right sidebar (bottom left) widget colors, delete this line and change the colors below
+
+#sidebar-bottom-left li {
+	border-color:#ddd;
+	background:#eee;
+	}
+
+#sidebar-bottom-left li li, #sidebar-bottom-left .textwidget, #sidebar-bottom-left li .widgettitle, #sidebar-bottom-left li#tag-cloud ul.wp-tag-cloud {
+	border-top:1px solid #fff;
+	border-bottom:1px solid #ddd;
+	}
+
+#sidebar-bottom-left li .widgettitle {
+	background: #e5e5e5;
+	}
+
+You'll also need to delete this line after you change the colors above ---- */
+
+/* ---- If you want to change the right sidebar (bottom right) widget colors, delete this line and change the colors below
+
+#sidebar-bottom-right li {
+	border-color:#ddd;
+	background:#eee;
+	}
+
+#sidebar-bottom-right li li, #sidebar-bottom-right .textwidget, #sidebar-bottom-right li .widgettitle, #sidebar-bottom-right li#tag-cloud ul.wp-tag-cloud {
+	border-top:1px solid #fff;
+	border-bottom:1px solid #ddd;
+	}
+
+#sidebar-bottom-right li .widgettitle {
+	background: #e5e5e5;
+	}
+
+You'll also need to delete this line after you change the colors above ---- */
